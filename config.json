@@ -3,12 +3,12 @@
 	"homePage": { 
 		"panels": [
 			{
-				"title": "Main",
-				"river": "myOpmlFeeds.js"
+				"title": "主要",
+				"river": "swxRSS.js"
 				},
 			{
-				"title": "NYT",
-				"river": "nyt.js"
+				"title": "友荐",
+				"river": "SuRss.js"
 				},
 			{
 				"title": "Hacker News",
