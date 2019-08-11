@@ -1,0 +1,66 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Sun, 11 Aug 2019 08:20:04 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="00 - 知识">
+      <outline text="彭明輝的人文網誌" title="彭明輝的人文網誌" type="rss" xmlUrl="http://mhperng2.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://mhperng2.blogspot.com/"/>
+      <outline text="王于漸" title="王于漸" type="rss" xmlUrl="http://wangyujian.hku.hk/?feed=rss2" htmlUrl="http://wangyujian.hku.hk/"/>
+      <outline text="warfalcon" title="warfalcon" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/read01.weixin.xml" htmlUrl="http://yiding.9.cn/ac/394"/>
+      <outline text="吴万伟的博客" title="吴万伟的博客" type="rss" xmlUrl="http://blog.163.com/wuwanwei@yeah/rss/" htmlUrl="http://blog.163.com/wuwanwei@yeah"/>
+      <outline text="The Everyday Minimalist" title="The Everyday Minimalist" type="rss" xmlUrl="http://feeds.feedburner.com/TheEverydayMinimalist" htmlUrl="http://www.everydayminimalist.com/"/>
+      <outline text="翔215" title="翔215" type="rss" xmlUrl="http://jianshu.milkythinking.com/feeds/users/512cd64277f8" htmlUrl="http://www.jianshu.com/users/512cd64277f8"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http://www.ruanyifeng.com/blog/atom.xml&amp;amp;max=3" htmlUrl="http://www.ruanyifeng.com/blog/atom.xml"/>
+      <outline text="培训师李参" title="培训师李参" type="rss" xmlUrl="http://www.lishen.me/feed" htmlUrl="http://www.lishen.me/"/>
+      <outline text="twhsi的BLOG :: 隨意窩 Xuite ::" title="twhsi的BLOG :: 隨意窩 Xuite ::" type="rss" xmlUrl="http://blog.xuite.net/twhsi/Blog/rss.xml" htmlUrl="http://blog.xuite.net/twhsi/Blog"/>
+      <outline text="用户 jlrlmylt RSS" title="用户 jlrlmylt RSS" type="rss" xmlUrl="http://blog.sciencenet.cn/rss.php?uid=814548" htmlUrl="http://blog.sciencenet.cn/rss.php?uid=814548"/>
+      <outline text="花辞树" title="花辞树" type="rss" xmlUrl="http://www.huacishu.com/feed/" htmlUrl="http://www.huacishu.com/"/>
+      <outline text="精品课" title="精品课" type="rss" xmlUrl="http://rss.castbox.fm/everest/91268b3e9f6f446299c170ce9f94b603.xml?tdsourcetag=s_pctim_aiomsg" htmlUrl="https://castbox.fm/ch/946096"/>
+      <outline text="刘未鹏 | Mind Hacks" title="刘未鹏 | Mind Hacks" type="rss" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn/"/>
+      <outline text="智识@IdeoBook™" title="智识@IdeoBook™" type="rss" xmlUrl="http://www.ideobook.com/feed/" htmlUrl="http://www.ideobook.com/"/>
+    </outline>
+    <outline text="01 - 工具">
+      <outline text="免费吧-分享互联网-分享精品免费资源" title="免费吧-分享互联网-分享精品免费资源" type="rss" xmlUrl="http://www.mianfeib.com/feed" htmlUrl="http://www.mianfeib.com/"/>
+      <outline text="電腦玩物" title="電腦玩物" type="rss" xmlUrl="http://www.playpcesor.com/feeds/posts/default" htmlUrl="http://www.playpcesor.com/"/>
+      <outline text="沨沄的博客" title="沨沄的博客" type="rss" xmlUrl="http://ifoxfactory.com/feed.xml" htmlUrl="http://ifoxfactory.com/"/>
+      <outline text="最美应用" title="最美应用" type="rss" xmlUrl="http://zuimeia.com/feed/" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=other"/>
+      <outline text="反斗软件 » 反斗软件" title="反斗软件 » 反斗软件" type="rss" xmlUrl="http://www.apprcn.com/feed" htmlUrl="http://www.apprcn.com/"/>
+      <outline text="Knotes" title="Knotes" type="rss" xmlUrl="http://knotesapp.com/zh/blog/atom.xml" htmlUrl="http://knotesapp.com/zh/blog/"/>
+    </outline>
+    <outline text="02 - 阅读">
+      <outline text="张五常Steven N.S. Cheung" title="张五常Steven N.S. Cheung" type="rss" xmlUrl="http://blog.sina.com.cn/rss/zhangwuchang.xml" htmlUrl="http://blog.sina.com.cn/zhangwuchang"/>
+      <outline text="设定控" title="设定控" type="rss" xmlUrl="http://shedingkong.lofter.com/rss" htmlUrl="http://shedingkong.lofter.com/"/>
+      <outline text="爱思想头条" title="爱思想头条" type="rss" xmlUrl="http://www.aisixiang.com/rss.php?type=1" htmlUrl="http://www.aisixiang.com/"/>
+      <outline text="左岸读书" title="左岸读书" type="rss" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn/"/>
+      <outline text="喷嚏网-铂程斋" title="喷嚏网-铂程斋" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xilei.dapenti.com.xml" htmlUrl="https://www.dapenti.com/blog/blog.asp?name=xilei"/>
+      <outline text="詩歌筆記本" title="詩歌筆記本" type="rss" xmlUrl="http://feeds.feedburner.com/mulberrypoems2" htmlUrl="http://mulberrypoems.blogspot.com/"/>
+      <outline text="小书屋" title="小书屋" type="rss" xmlUrl="http://mebook.cc/feed" htmlUrl="http://mebook.cc/"/>
+      <outline text="读库小报" title="读库小报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml" htmlUrl="http://www.iwgc.cn/list/6455"/>
+      <outline text="读写人" title="读写人" type="rss" xmlUrl="http://www.duxieren.com/duxieren.xml" htmlUrl="http://www.duxieren.com/"/>
+      <outline text="每日一文" title="每日一文" type="rss" xmlUrl="http://feed43.com/mryw.xml" htmlUrl="http://meiriyiwen.com/"/>
+      <outline text="郑也夫的BLOG" title="郑也夫的BLOG" type="rss" xmlUrl="http://blog.sina.com.cn/rss/zhengyefu.xml" htmlUrl="http://blog.sina.com.cn/zhengyefu"/>
+    </outline>
+    <outline text="03 - 知乎">
+      <outline text="瞎扯 - 知乎日报·合集" title="瞎扯 - 知乎日报·合集" type="rss" xmlUrl="http://zhihurss.miantiao.me/section/id/2" htmlUrl="http://daily.zhihu.com/"/>
+    </outline>
+    <outline text="04 - 新闻">
+      <outline text="每日环球视野" title="每日环球视野" type="rss" xmlUrl="http://feedx.net/rss/idaily.xml" htmlUrl="http://m.idai.ly/"/>
+      <outline text="编程随想的博客-1" title="编程随想的博客-1" type="rss" xmlUrl="http://feeds2.feedburner.com/programthink" htmlUrl="http://program-think.blogspot.com/"/>
+      <outline text="爱思想头条-1" title="爱思想头条-1" type="rss" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http://www.aisixiang.com/rss.php?type=1&amp;max=3" htmlUrl="http://www.aisixiang.com/rss.php?type=1"/>
+      <outline text="199IT互联网TMT数据" title="199IT互联网TMT数据" type="rss" xmlUrl="http://www.199it.com/feed" htmlUrl="http://www.199it.com/"/>
+      <outline text="腾讯·大家" title="腾讯·大家" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dajia.qq.com.xml" htmlUrl="http://dajia.qq.com/article_lists.htm"/>
+      <outline text="BBC中文" title="BBC中文" type="rss" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=www.bbc.co.uk/zhongwen/simp/index.xml&amp;links=preserve" htmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml"/>
+      <outline text="好奇心日报" title="好奇心日报" type="rss" xmlUrl="http://www.qdaily.com/feed.xml" htmlUrl="http://www.qdaily.com/"/>
+      <outline text="政见 CNPolitics.org" title="政见 CNPolitics.org" type="rss" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org/"/>
+    </outline>
+    <outline text="05 - 互联网">
+      <outline text="数字尾巴" title="数字尾巴" type="rss" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" htmlUrl="http://www.dgtle.com/"/>
+      <outline text="TECH2IPO创见" title="TECH2IPO创见" type="rss" xmlUrl="http://tech2ipo.com/feed" htmlUrl="http://tech2ipo.com/feed"/>
+      <outline text="极客公园" title="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://www.geekpark.net/"/>
+      <outline text="Readbub" title="Readbub" type="rss" xmlUrl="http://readhub.bayes.cafe/rss?channel=topics" htmlUrl="https://readhub.me/"/>
+      <outline text="爱范儿 · Beats of Bits" title="爱范儿 · Beats of Bits" type="rss" xmlUrl="http://www.ifanr.com/feed" htmlUrl="http://www.ifanr.com/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+    </outline>
+    <outline text="mobile-security"/>
+  </body>
+</opml>
